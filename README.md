@@ -1,1 +1,2 @@
-# Linkedin Learning Selenium & Test Automation Foundations
+# Linkedin Learning --> Meaghan Lewis
+# Selenium Essential Training & Test Automation Foundations
